@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/labore-temporibus-tempora-est",
-  "version": "18.43.425",
+  "version": "18.43.426",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -161,5 +161,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/labore-temporibus-tempora-est/issues"
   },
-  "packageManager": "yarn@4.9.2"
+  "packageManager": "yarn@4.9.3"
 }
